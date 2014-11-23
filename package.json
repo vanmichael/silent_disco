@@ -1,0 +1,20 @@
+{
+  "name": "silent-disco",
+  "description": "A music app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "pg": "~3.5.0",
+    "sequelize": "~2.0.0-rc2",
+    "handlebars": "~2.0.0",
+    "express3-handlebars": "~0.5.2",
+    "morgan": "~1.4.0",
+    "passport": "~0.2.1",
+    "passport-local": "~1.0.0",
+    "bcrypt": "~0.8.0",
+    "sequelize-cli": "~0.3.3",
+    "mocha": "~2.0.1",
+    "require-root": "~0.1.0"
+  }
+}
